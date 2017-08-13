@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="page-header">
+        {% block header %}
+            <h1>{% block title %}Base page title{% endblock %}</h1>
+            <p>Base page description</p>
+        {% endblock %}
+    </div>
+
+    <div class="panel">
+        <div id="content">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+</div>
