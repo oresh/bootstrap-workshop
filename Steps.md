@@ -2,7 +2,7 @@
     block elements
         div, section, header, footer, article, nav
     text elements
-        h1,h2,h3,h4,h5,p,em, i, b, small, blockquote
+        h1, h2, h3, h4, h5, p, em, i, b, small, blockquote
     utility elements
         span, ul, ol, li, 
     classes, ids, class stacking
